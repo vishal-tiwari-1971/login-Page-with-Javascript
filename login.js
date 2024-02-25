@@ -6,6 +6,6 @@ function log(){
         alert(" Login successful");
      }
      else{
-        alert(" InvaLid Username or Password")
+        alert(" InvaLid Username or Password");
      }
 }
